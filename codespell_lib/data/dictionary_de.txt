@@ -62,15 +62,14 @@ angelsächsichen->angelsächsischen
 angesehendsten->angesehensten
 anlaesslich->anlässlich
 anlaeßlich->anlässlich
-änlich->ähnlich
-annährend->annähernd
-Annährung->Annäherung
 Annektion->Annexion
 annerkannt->anerkannt
 annerkannte->anerkannte
 Annerkennung->Anerkennung
 annuliert->annulliert
 Annulierung->Annullierung
+annährend->annähernd
+Annährung->Annäherung
 Anordung->Anordnung
 Anschaung->Anschauung
 anschliessen->anschließen
@@ -88,9 +87,9 @@ Appartment->Apartment
 Appartment->Appartement
 aquirieren->akquirieren
 Aquisition->Akquisition
+Archeologe->Archäologe
 archälogische->archäologische
 archälogischen->archäologischen
-Archeologe->Archäologe
 Argentur->Agentur
 Arikel->Artikel
 arithmetrisch->arithmetisch
@@ -105,7 +104,6 @@ Athmosphäre->Atmosphäre
 athmosphärisch->atmosphärisch
 Atrappe->Attrappe
 attakieren->attackieren
-Aufällig->Auffällig
 Aufassung->Auffassung
 Aufassungen->Auffassungen
 Aufenhalt->Aufenthalt
@@ -115,6 +113,7 @@ Aufsteig->Aufstieg
 Auftieg->Aufstieg
 auftretenen->auftretenden
 auftretten->auftreten
+Aufällig->Auffällig
 Augenlied->Augenlid
 augenommen->aufgenommen
 augenommen->ausgenommen
@@ -123,9 +122,9 @@ auml->ä
 Ausage->Aussage
 Ausagen->Aussagen
 auschliesslich->ausschließlich
-auschließlich->ausschließlich
 auschliessliche->ausschließliche
 auschliesslichen->ausschließlichen
+auschließlich->ausschließlich
 Auseinadersetzung->Auseinandersetzung
 Auseindersetzung->Auseinandersetzung
 auserdem->außerdem
@@ -144,33 +143,20 @@ aussen->außen
 Aussenminister->Außenminister
 ausser->außer
 ausserdem->außerdem
-äussere->äußere
-äusseren->äußeren
-äusserer->äußerer
-äusseres->äußeres
 aussergewöhnlich->außergewöhnlich
 aussergewöhnlichen->außergewöhnlichen
 ausserhalb->außerhalb
 ausserirdisch->außerirdisch
 ausserirdische->außerirdische
 ausserirdischen->außerirdischen
-äussern->äußern
 ausserordentlich->außerordentlich
 ausserordentliche->außerordentliche
 ausserordentlichem->außerordentlichem
 ausserordentlichen->außerordentlichen
 ausserordentlicher->außerordentlicher
 ausserordentliches->außerordentliches
-äusserst->äußerst
-äusserste->äußerste
-äussersten->äußersten
-äusserte->äußerte
-äusserten->äußerten
-Äusserung->Äußerung
-Äusserungen->Äußerungen
 aussschliesslich->ausschließlich
 aussschließlich->ausschließlich
-außschließlich->ausschließlich
 Austattung->Ausstattung
 Austellung->Ausstellung
 Austellungen->Ausstellungen
@@ -182,6 +168,7 @@ authorisieren->autorisieren
 authorisiert->autorisiert
 Authorisierung->Autorisierung
 Authorität->Autorität
+außschließlich->ausschließlich
 Babies->Babys
 bafand->befand
 Balett->Ballett
@@ -210,8 +197,8 @@ beeinflußen->beeinflussen
 Beeinflußung->Beeinflussung
 beeinhalten->beinhalten
 beeinhaltet->beinhaltet
-begang->beging
 begang->begann
+begang->beging
 beherrbergt->beherbergt
 beherschen->beherrschen
 beherscht->beherrscht
@@ -273,13 +260,13 @@ britscher->britischer
 britsches->britisches
 Bronzemedaillie->Bronzemedaille
 Bronzemedallie->Bronzemedaille
-Bügermeister->Bürgermeister
 Bundesaussenminister->Bundesaußenminister
 Bundesstrasse->Bundesstraße
 Bundestaat->Bundesstaat
 Bundestraße->Bundesstraße
 Bundsandstein->Buntsandstein
 byzantisch->byzantinisch
+Bügermeister->Bürgermeister
 chinesiche->chinesische
 chinesichen->chinesischen
 chinesicher->chinesischer
@@ -287,16 +274,16 @@ Chirugie->Chirurgie
 Chonik->Chronik
 Chonist->Chronist
 chonologisch->chronologisch
-cirka->zirka
 cirka->circa
+cirka->zirka
 dadruch->dadurch
 daduch->dadurch
 danaben->daneben
 danch->danach
 dannach->danach
-darüberhinaus->darüber hinaus
 daruf->darauf
 darufhin->daraufhin
+darüberhinaus->darüber hinaus
 dastellt->darstellt
 Debutalbum->Debütalbum
 Definiton->Definition
@@ -397,8 +384,8 @@ Enfernungen->Entfernungen
 Engeneering->Engineering
 englsich->englisch
 engültig->endgültig
-enhält->enthält
 enhalten->enthalten
+enhält->enthält
 Enscheidung->Entscheidung
 enstand->entstand
 enstanden->entstanden
@@ -440,8 +427,8 @@ Ergebniss->Ergebnis
 Erkentnis->Erkenntnis
 Erkentnisse->Erkenntnisse
 erklährt->erklärt
-ermöglich->ermöglicht
 ermöglich->ermöglichen
+ermöglich->ermöglicht
 erorbert->erobert
 errinnern->erinnern
 errinnert->erinnert
@@ -465,14 +452,14 @@ Expediton->Expedition
 experimentiell->experimentell
 Extase->Ekstase
 Fahradtour->Fahrradtour
-familär->familiär
 Famile->Familie
 Familen->Familien
+familär->familiär
 Famlie->Familie
 Februrar->Februar
 Feburar->Februar
-Fersehen->Fernsehen
 Ferseh->Fernseh
+Fersehen->Fernsehen
 fertigestellt->fertiggestellt
 festellen->feststellen
 Festellung->Feststellung
@@ -493,10 +480,10 @@ Fotographie->Photographie
 Fotographien->Fotografien
 Fotographien->Photographien
 fotographiert->fotografiert
-franösisch->französisch
 frantösisch->französisch
 franzöisch->französisch
 französich->französisch
+franösisch->französisch
 Freidrich->Friedrich
 Freimauerei->Freimaurerei
 Fremsprache->Fremdsprache
@@ -507,8 +494,6 @@ fröhnen->frönen
 Frühjar->Frühjahr
 frühre->frühere
 fuer->für
-füher->früher
-füher->Führer
 Fuktion->Funktion
 Funier->Furnier
 Fuss->Fuß
@@ -517,8 +502,10 @@ Fussballer->Fußballer
 Fussballerin->Fußballerin
 Fussballspieler->Fußballspieler
 Fussballspielerin->Fußballspielerin
-Fußballstadium->Fußballstadion
 Fusse->Fuße
+Fußballstadium->Fußballstadion
+füher->früher
+füher->Führer
 Füsse->Füße
 Füst->Fürst
 Gallerie->Galerie
@@ -526,14 +513,13 @@ Gallerien->Galerien
 Gallionsfigur->Galionsfigur
 garnicht->gar nicht
 Garnision->Garnison
-Garnision->Garnison
-Gebäde->Gebäude
 Gebahren->Gebaren
-gebähren->gebären
-Gebaüde->Gebäude
 Gebaude->Gebäude
-Gebäuder->Gebäude
+Gebaüde->Gebäude
 gebornen->geborenen
+Gebäde->Gebäude
+gebähren->gebären
+Gebäuder->Gebäude
 Gedult->Geduld
 Gedänk->Gedenk
 Gefäss->Gefäß
@@ -544,17 +530,16 @@ gehöhren->gehören
 gehöhrt->gehört
 gekührt->gekürt
 gelanden->geladen
-gemäss->gemäß
 gemeinsammen->gemeinsamen
 gemeisam->gemeinsam
+gemäss->gemäß
 genant->genannt
 genanten->genannten
 Genaral->General
 geniessen->genießen
-gennant->genannt
 gennannt->genannt
+gennant->genannt
 Gerneral->General
-gesäht->gesät
 gesammt->gesamt
 gesammten->gesamten
 gesammter->gesamter
@@ -567,6 +552,7 @@ gesetztlich->gesetzlich
 Gesichtpunkt->Gesichtspunkt
 gesponsort->gesponsert
 gesteift->gestreift
+gesäht->gesät
 gewan->gewann
 gewissermassen->gewissermaßen
 gewunken->gewinkt
@@ -584,51 +570,50 @@ Gradwanderung->Gratwanderung
 Graftschaft->Grafschaft
 groesse->größe
 groeße->größe
-gröhlen->grölen
 Grossaufgebot->Großaufgebot
 Grossbritanien->Großbritannien
-Großbritanien->Großbritannien
 Grossbritannien->Großbritannien
 Grossbrittanien->Großbritannien
-Großbrittanien->Großbritannien
 Grossbrittannien->Großbritannien
-Großbrittannien->Großbritannien
 grosse->große
-grösse->größe
 grossem->großem
 grossen->großen
 grossenteils->großenteils
-größenteils->größtenteils
 grosser->großer
+grosses->großes
+Grossteil->Großteil
+grossteils->großteils
+Großbritanien->Großbritannien
+Großbrittanien->Großbritannien
+Großbrittannien->Großbritannien
+gröhlen->grölen
+grösse->größe
 grösser->größer
 grössere->größere
 grösserem->größerem
 grösseren->größeren
 grösserer->größerer
 grösseres->größeres
-grosses->großes
 grösste->größte
-Grossteil->Großteil
-grossteils->großteils
 grössten->größten
 grösstenteils->größtenteils
 grösster->größter
 grösstes->größtes
+größenteils->größtenteils
 Gründstück->Grundstück
 Guerrillakampf->Guerillakampf
 Guiness->Guinness
 Guiseppe->Giuseppe
 Güterloh->Gütersloh
-Häckchen->Häkchen
 haetten->hätten
+hahnebüchen->hanebüchen
 Handelschiff->Handelsschiff
 Handies->Handys
-hahnebüchen->hanebüchen
 hattte->hatte
 hattte->hatten
 Haupstadt->Hauptstadt
-haupsächlich->hauptsächlich
 Haupstädte->Hauptstädte
+haupsächlich->hauptsächlich
 heiratetet->heiratet
 heiss->heiß
 heisser->heißer
@@ -657,13 +642,14 @@ Hochaus->Hochhaus
 Hochäuser->Hochhäuser
 Hofffnung->Hoffnung
 Hoffung->Hoffnung
-höherere->höhere
-höherwertigere->höherwertige
-höhren->hören
-höhren->höheren
-höhrt->hört
 Homage->Hommage
 hunderste->hundertste
+Häckchen->Häkchen
+höherere->höhere
+höherwertigere->höherwertige
+höhren->höheren
+höhren->hören
+höhrt->hört
 idendifiziert->identifiziert
 idenfiziert->identifiziert
 idiopatisch->idiopathisch
@@ -685,8 +671,8 @@ Ingeneur->Ingenieur
 ingesamt->insgesamt
 Ingredenzien->Ingredienzien
 Inhaltstoff->Inhaltsstoff
-Initation->Initiation
 Initation->Imitation
+Initation->Initiation
 Initative->Initiative
 Initator->Initiator
 Initialie->Initiale
@@ -702,16 +688,16 @@ insgeamt->insgesamt
 insgesammt->insgesamt
 Insitut->Institut
 Insitution->Institution
-instandgehalten->instand gehalten
 instandgehalten->in Stand gehalten
-instandgesetzt->instand gesetzt
+instandgehalten->instand gehalten
 instandgesetzt->in Stand gesetzt
-instandhalten->instand halten
+instandgesetzt->instand gesetzt
 instandhalten->in Stand halten
-instandsetzen->instand setzen
+instandhalten->instand halten
 instandsetzen->in Stand setzen
-instandzusetzen->instand zu setzen
+instandsetzen->instand setzen
 instandzusetzen->in Stand zu setzen
+instandzusetzen->instand zu setzen
 Instituion->Institution
 Instiut->Institut
 Instiution->Institution
@@ -739,7 +725,6 @@ irgentwie->irgendwie
 italenisch->italienisch
 italiensch->italienisch
 italiensich->italienisch
-Jägerbatallion->Jägerbataillon
 Jahhundert->Jahrhundert
 Jahhunderte->Jahrhunderte
 Jahhunderts->Jahrhunderts
@@ -753,7 +738,6 @@ Jahrzente->Jahrzehnte
 Jahundert->Jahrhundert
 Jahunderte->Jahrhunderte
 Jahunderts->Jahrhunderts
-Jäner->Jänner
 Janur->Januar
 Jarh->Jahr
 Jarhundert->Jahrhundert
@@ -770,6 +754,8 @@ Joyces->Joyce’
 Jubiliäum->Jubiläum
 Jungend->Jugend
 Justitz->Justiz
+Jägerbatallion->Jägerbataillon
+Jäner->Jänner
 Kabaret->Kabarett
 Kaiserlautern->Kaiserslautern
 Kandidad->Kandidat
@@ -813,17 +799,10 @@ Kommittee->Komitee
 kommmen->kommen
 Kommunkation->Kommunikation
 Kompentenz->Kompetenz
-Könföderierte->Konföderierte
 Konförderierte->Konföderierte
-könglich->königlich
-Köngreich->Königreich
-Königsreich->Königreich
-Königstum->Königtum
 Konkurenz->Konkurrenz
 konkurieren->konkurrieren
 konkuriert->konkurriert
-könnnen->können
-könnnen->Können
 Konservationslexikon->Konversationslexikon
 Kontak->Kontakt
 konte->konnte
@@ -844,7 +823,12 @@ Kunstoff->Kunststoff
 Kunstoffe->Kunststoffe
 Kurfüst->Kurfürst
 kurzeitig->kurzzeitig
-läd->lädt
+Könföderierte->Konföderierte
+könglich->königlich
+Köngreich->Königreich
+Königsreich->Königreich
+Königstum->Königtum
+könnnen->können
 Landesaustellung->Landesausstellung
 Landesprache->Landessprache
 Landwirschaft->Landwirtschaft
@@ -852,7 +836,6 @@ landwirschaftlich->landwirtschaftlich
 langläufig->landläufig
 Lapalie->Lappalie
 Lassithi->Lasithi
-läst->lässt
 lateinsch->lateinisch
 lateinsche->lateinische
 lateinschen->lateinischen
@@ -904,20 +887,22 @@ lybischem->libyschem
 lybischen->libyschen
 lybischer->libyscher
 lybisches->libysches
+läd->lädt
+läst->lässt
 machmal->manchmal
 Manhatan->Manhattan
 Manhatta->Manhattan
 Manhatten->Manhattan
 Manhetten->Manhattan
-Manschaft->Mannschaft
 Manmschaft->Mannschaft
 Mannhattan->Manhattan
-Mannöver->Manöver
 Mannschaf->Mannschaft
 Mannschaftt->Mannschaft
 Mannshcaft->Mannschaft
+Mannöver->Manöver
 Mansardach->Mansarddach
 Mansardendach->Mansarddach
+Manschaft->Mannschaft
 Mansnchaften->Mannschaft
 Manssarddach->Mansarddach
 marrokanisch->marokkanisch
@@ -926,15 +911,8 @@ Marrokko->Marokko
 Marroko->Marokko
 Marylin->meist Marilyn
 Marytrium->Martyrium
-Märtyrium->Martyrium
 Maschiene->Maschine
 Maschienen->Maschinen
-mässig->mäßig
-mässige->mäßige
-mässigem->mäßigem
-mässigen->mäßigen
-mässiger->mäßiger
-mässiges->mäßiges
 Mass->Maß
 Massgabe->Maßgabe
 Massgaben->Maßgaben
@@ -958,8 +936,8 @@ massloses->maßloses
 Massnahme->Maßnahme
 Massnahmen->Maßnahmen
 Matraze->Matratze
-Matritze->Matrize
 Matritze->Matrix
+Matritze->Matrize
 Maximillian->meist Maximilian
 Medailie->Medaille
 Medaillie->Medaille
@@ -987,20 +965,17 @@ mehrer->mehrere
 mehrerere->mehrere
 mehrtätige->mehrtägige
 meisst->meist
+meistbesuchtesten->meistbesuchten
+meits->meist
 meißt->meist
 meißten->meisten
 meißtens->meistens
-meistbesuchtesten->meistbesuchten
-meits->meist
 mengemässig->mengenmäßig
 mengenmässig->mengenmäßig
 Mensche->Menschen
 Menscheit->Menschheit
 Menschens->Menschen
-Meßgerät->Messgerät
-Meßgeräte->Messgeräte
 Messystem->Messsystem
-Meßsystem->Messsystem
 Metallegierung->Metalllegierung
 Metereologe->Meteorologe
 Metereologie->Meteorologie
@@ -1008,6 +983,9 @@ metereologisch->meteorologisch
 Meterologie->Meteorologie
 meterologisch->meteorologisch
 Mettal->Metall
+Meßgerät->Messgerät
+Meßgeräte->Messgeräte
+Meßsystem->Messsystem
 mhd->mittelhochdeutsch
 Micheal->meist Michael
 Miglied->Mitglied
@@ -1021,17 +999,16 @@ Millitär->Militär
 millitärisch->militärisch
 Millon->Million
 Millonen->Millionen
-Miltär->Militär
-miltärisch->militärisch
 Miltitär->Militär
 miltitärisch->militärisch
+Miltär->Militär
+miltärisch->militärisch
 minimalste->minimale
 minimalster->minimaler
 minimalstes->minimales
 Ministerpäsident->Ministerpräsident
 Mitgleid->Mitglied
 mitlerweile->mittlerweile
-mittlerweilen->mittlerweile
 Mitlgiled->Mitglied
 Mitlied->Mitglied
 Mittelater->Mittelalter
@@ -1044,6 +1021,7 @@ Mitteralter->Mittelalter
 mitteralterlich->mittelalterlich
 Mitterand->Mitterrand
 Mittglied->Mitglied
+mittlerweilen->mittlerweile
 Mittschnitt->Mitschnitt
 mnachmal->manchmal
 Mobiletelefon->Mobiltelefon
@@ -1052,18 +1030,13 @@ moegliche->mögliche
 moeglichen->möglichen
 moeglicher->möglicher
 moegliches->mögliches
-möglicht->möglich
-möglicht->möglichst
 mordern->modern
 morderne->moderne
 mordernen->modernen
 morderner->moderner
 mordernes->modernes
-morgentlich->morgendlich
 morgends->morgens
-muß->muss
-mußte->musste
-mußten->mussten
+morgentlich->morgendlich
 Museeum->Museum
 mutmasslich->mutmaßlich
 mutmassliche->mutmaßliche
@@ -1071,12 +1044,23 @@ mutmasslichem->mutmaßlichem
 mutmasslichen->mutmaßlichen
 mutmasslicher->mutmaßlicher
 mutmassliches->mutmaßliches
+muß->muss
+mußte->musste
+mußten->mussten
+Märtyrium->Martyrium
+mässig->mäßig
+mässige->mäßige
+mässigem->mäßigem
+mässigen->mäßigen
+mässiger->mäßiger
+mässiges->mäßiges
+möglicht->möglich
+möglicht->möglichst
 Nachkommens->Nachkommen
 Nahaufname->Nahaufnahme
 nahegelegenste->nächstgelegene
 naheste->nächste
 nahesten->nächsten
-nähmlich->nämlich - besser ganz darauf verzichten
 namenlich->namentlich
 namenslos->namenlos
 Namne->Namen
@@ -1097,11 +1081,12 @@ nocheinmal->noch einmal
 nordeutsch->norddeutsch
 Nordeutschland->Norddeutschland
 nordlich->nördlich
-nördöstlich->nordöstlich
-nördwestlich->nordwestlich
 normanisch->normannisch
 notwenig->notwendig
 numehr->nunmehr
+nähmlich->nämlich - besser ganz darauf verzichten
+nördwestlich->nordwestlich
+nördöstlich->nordöstlich
 objekiv->objektiv
 obrige->obige
 obrigen->obigen
@@ -1121,12 +1106,12 @@ optimalster->optimaler
 optimalstes->optimales
 Ordnug->Ordnung
 Ordung->Ordnung
-Orgeon->Oregon
+organisert->organisiert
 Organistion->Organisation
 Organsiation->Organisation
 organsich->organisch
 Organsisation->Organisation
-organisert->organisiert
+Orgeon->Oregon
 orginal->original
 orginale->originale
 orginalen->originalen
@@ -1138,35 +1123,27 @@ Orsteile->Ortsteile
 Ortteil->Ortsteil
 ouml->Ö/ö
 Overtüre->Ouvertüre
-öffenlich->öffentlich
-Ökö->Öko
-Östereich->Österreich
-Österrreich->Österreich
-Österreisch->Österreich
-östereichisch->österreichisch
-österreichich->österreichisch
 Packet->Paket
-palästinesisch->palästinensisch
 Palete->Palette
 Paleten->Paletten
 Pallete->Palette
 Palleten->Paletten
 Pallette->Palette
 Palletten->Paletten
+palästinesisch->palästinensisch
 paralell->parallel
 Parcour->Parcours
 parralel->parallel
 parrallel->parallel
-Päsident->Präsident
 patroullieren->patrouillieren
 patroulliert->patrouilliert
 Pavillion->Pavillon
 Peleponnes->Peloponnes
 Pepperoni->Peperoni
 Perlmut->Perlmutt
-perönlich->persönlich
 persöhnlich->persönlich
 Persönlichleit->Persönlichkeit
+perönlich->persönlich
 Philantrop->Philanthrop
 Philipinen->Philippinen
 Philipinisch->Philippinisch
@@ -1212,6 +1189,7 @@ Provinzhaupstadt->Provinzhauptstadt
 Prozeße->Prozesse
 Psychatrie->Psychiatrie
 pysikalisch->physikalisch
+Päsident->Präsident
 Quattrologie->Tetralogie
 Ralley->Rallye
 Ralleyfahrer->Rallyefahrer
@@ -1248,9 +1226,9 @@ Rennaissance->Renaissance
 Renomee->Renommee
 renomiert->renommiert
 Renomme->Renommee
+Reperatur->Reparatur
 repäsentieren->repräsentieren
 repäsentiert->repräsentiert
-Reperatur->Reparatur
 Resourcen->Ressourcen
 Rhytmen->Rhythmen
 rhytmisch->rhythmisch
@@ -1263,9 +1241,6 @@ rihgt->right
 Riskio->Risiko
 Risko->Risiko
 Rossevelt->Roosevelt
-Rückgrad->Rückgrat
-Rückrad->Rückgrat
-Rückrat->Rückgrat
 russich->russisch
 russiche->russische
 russichen->russischen
@@ -1278,14 +1253,13 @@ Rythmen->Rhythmen
 rythmisch->rhythmisch
 rythmische->rhythmische
 Rythmus->Rhythmus
-sächisch->sächsisch
-sächsich->sächsisch
-sächsiche->sächsische
-sächsichen->sächsischen
+Rückgrad->Rückgrat
+Rückrad->Rückgrat
+Rückrat->Rückgrat
+S-Bahnstation->S-Bahn-Station
 Sarkopharg->Sarkophag
 sassen->saßen
 satzungsgemäss->satzungsgemäß
-S-Bahnstation->S-Bahn-Station
 schafte->schaffte
 Schaupiel->Schauspiel
 Scheiz->Schweiz
@@ -1316,10 +1290,10 @@ Siluette->Silhouette
 sinvoll->sinnvoll
 Situtation->Situation
 Skagerak->Skagerrak
-sodas->sodass
 sodas->so dass
-sodaß->sodass
+sodas->sodass
 sodaß->so dass
+sodaß->sodass
 sogenante->sogenannte
 sogenanten->sogenannten
 sonder->sondern
@@ -1345,14 +1319,14 @@ stellverteten->stellvertreten
 Stellverteter->Stellvertreter
 stiess->stieß
 Stimmulation->Stimulation
-Stömung->Strömung
 Stoss->Stoß
 stossen->stoßen
 Stossfänger->Stoßfänger
 Stossstange->Stoßstange
-stösst->stößt
 Strasse->Straße
 strukur->struktur
+Stömung->Strömung
+stösst->stößt
 subsummieren->subsumieren
 subsummiert->subsumiert
 sumieren->summieren
@@ -1366,6 +1340,10 @@ Syphon->Siphon
 Sytem->System
 Sytematik->Systematik
 sytematisch->systematisch
+sächisch->sächsisch
+sächsich->sächsisch
+sächsiche->sächsische
+sächsichen->sächsischen
 Taiwanese->Taiwaner
 Taiwanesen->Taiwaner
 tasächlich->tatsächlich
@@ -1388,11 +1366,11 @@ Tradtion->Tradition
 Trainig->Training
 Transskri->Transkript
 Triologie->Trilogie
+Triptichon->Triptychon
 Triumpf->Triumph
 trotzdessen->trotzdem
 trozdem->trotzdem
 Tryptichon->Triptychon
-Triptichon->Triptychon
 Tryptychon->Triptychon
 Tunier->Turnier
 Turismus->Tourismus
@@ -1400,22 +1378,17 @@ Turist->Tourist
 U-Bahnnetz->U-Bahn-Netz
 U-Bahnstation->U-Bahn-Station
 U-Bahntunnel->U-Bahn-Tunnel
-überarbeitetet->überarbeitet
-überlegende->überlegene
-überlegenden->überlegenen
-überlicherweise->üblicherweise
-Überwachungstaat->Überwachungsstaat
 U-Bootkrieg->U-Boot-Krieg
+umbennant->umbenannt
 umbennen->umbenennen
 umbennenen->umbenennen
 umbennennen->umbenennen
-umbennant->umbenannt
 Umbennennung->Umbenennung
 Umbennenung->Umbenennung
 Umbennung->Umbenennung
 Umbennung->Umnennung
-umd->und
 umd->um
+umd->und
 Umgangsprache->Umgangssprache
 umgangsprachlich->umgangssprachlich
 umgangsprachliche->umgangssprachliche
@@ -1434,8 +1407,8 @@ Unfang->Umfang
 ungekehrt->umgekehrt
 Univerität->Universität
 Universiät->Universität
-Universtät->Universität
 Universtität->Universität
+Universtät->Universität
 unsymetrisch->unsymmetrisch
 unteranderem->unter anderem
 Untergund->Untergrund
@@ -1447,15 +1420,14 @@ Unternehms->Unternehmens
 unterstüzt->unterstützt
 Unterstüzung->Unterstützung
 Unversität->Universität
-unwegbar->unwägbar
 unwegbar->unwegsam
+unwegbar->unwägbar
 Urprung->Ursprung
 urprünglich->ursprünglich
-ürsprünglich->ursprünglich
 urspünglich->ursprünglich
 Ursurpator->Usurpator
-us-amerikanischen->US-amerikanischen
 us-amerikanischen->amerikanischen
+us-amerikanischen->US-amerikanischen
 usprünglich->ursprünglich
 variert->variiert
 varrieren->variieren
@@ -1476,22 +1448,19 @@ verbreiteteste->verbreitetste
 vereingt->vereinigt
 vereiningt->vereinigt
 vergleichweise->vergleichsweise
-vergößert->vergrößert
-Vergößerung->Vergrößerung
 vergrössern->vergrößern
 vergrössert->vergrößert
 vergrösserte->vergrößerte
 vergrösserten->vergrößerten
 vergrösserter->vergrößerter
 Vergrösserung->Vergrößerung
+vergößert->vergrößert
+Vergößerung->Vergrößerung
 verhaeltnismaessig->verhältnismäßig
-verhältnismässig->verhältnismäßig
 verheiratetet->verheiratet
+verhältnismässig->verhältnismäßig
 verkündetet->verkündet
 verliess->verließ
-veröffendlicht->veröffentlicht
-Veröffendlichung->Veröffentlichung
-veröffentlich->veröffentlicht
 verplichtet->verpflichtet
 verschiedende->verschiedene
 verschiedendste->verschiedenste
@@ -1500,16 +1469,19 @@ verschohnen->verschonen
 verspühren->verspüren
 verspührt->verspürt
 Verständis->Verständnis
-Vertäge->Verträge
 vertaglich->vertraglich
 Verteidung->Verteidigung
+Vertäge->Verträge
 Verwaltungsitz->Verwaltungssitz
 Verwandschaft->Verwandtschaft
 verwandschaftlich->verwandtschaftlich
+veröffendlicht->veröffentlicht
+Veröffendlichung->Veröffentlichung
+veröffentlich->veröffentlicht
 Vetrag->Vertrag
-Veträge->Verträge
 vetraglich->vertraglich
 vetraut->vertraut
+Veträge->Verträge
 vieleicht->vielleicht
 vorallem->vor allem
 vorallen->vor allem
@@ -1525,15 +1497,12 @@ Vormachtsstellung->Vormachtstellung
 vorranging->vorrangig
 vorraus->voraus
 vorrüber->vorüber
-Wachholder->Wacholder
 wachesen->wachsen
-währe->wäre
-währendessen->währenddessen
+Wachholder->Wacholder
 Walfahrer->Wallfahrer
 Walfahrt->Wallfahrt
 Walfahrtskirche->Wallfahrtskirche
 Walfahrtsort->Wallfahrtsort
-wärend->während
 Warheit->Wahrheit
 warscheinlich->wahrscheinlich
 Webblog->Weblog
@@ -1582,6 +1551,9 @@ Wochende->Wochenende
 woduch->wodurch
 Wolfang->Wolfgang
 wurd->wurde
+währe->wäre
+währendessen->währenddessen
+wärend->während
 Würtemberg->Württemberg
 würtembergische->württembergische
 zahreich->zahlreich
@@ -1595,27 +1567,53 @@ zuammen->zusammen
 Zuammenhang->Zusammenhang
 zueigen->zu eigen
 zuende->zu Ende
-zugrundeliegen->zugrunde liegen
 zugrundeliegen->zu Grunde liegen
-zugrundeliegt->zugrunde liegt
+zugrundeliegen->zugrunde liegen
 zugrundeliegt->zu Grunde liegt
+zugrundeliegt->zugrunde liegt
 zumindestens->zumindest
 zunehmends->zunehmend
 zurecht->zurecht
-zurfolge->zur Folge
 zurfolge->zufolge
+zurfolge->zur Folge
 zusamen->zusammen
 Zusamenhang->Zusammenhang
 zusammmen->zusammen
-zusätlich->zusätzlich
 zusehens->zusehends
-zustandegekommen->zustande gekommen
 zustandegekommen->zu Stande gekommen
-zustandekam->zustande kam
+zustandegekommen->zustande gekommen
 zustandekam->zu Stande kam
-zustandekommt->zustande kommt
+zustandekam->zustande kam
 zustandekommt->zu Stande kommt
+zustandekommt->zustande kommt
 zustätzlich->zusätzlich
+zusätlich->zusätzlich
 Zweidrittel->zwei Drittel
 Zweidrittel-Mehrheit->Zweidrittelmehrheit
 Zweiliga->Zweitliga
+Äusserung->Äußerung
+Äusserungen->Äußerungen
+Ökö->Öko
+Östereich->Österreich
+Österreisch->Österreich
+Österrreich->Österreich
+Überwachungstaat->Überwachungsstaat
+änlich->ähnlich
+äussere->äußere
+äusseren->äußeren
+äusserer->äußerer
+äusseres->äußeres
+äussern->äußern
+äusserst->äußerst
+äusserste->äußerste
+äussersten->äußersten
+äusserte->äußerte
+äusserten->äußerten
+öffenlich->öffentlich
+östereichisch->österreichisch
+österreichich->österreichisch
+überarbeitetet->überarbeitet
+überlegende->überlegene
+überlegenden->überlegenen
+überlicherweise->üblicherweise
+ürsprünglich->ursprünglich
