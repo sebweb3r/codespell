@@ -184,3 +184,5 @@ with the following terms:
 dictionary.txt is a derived work of English Wikipedia and is released under the
 Creative Commons Attribution-Share-Alike License 3.0
 http://creativecommons.org/licenses/by-sa/3.0/
+The dictionaries were extend with the dictionaries of https://github.com/client9/misspell/,
+which are published under the MIT license https://opensource.org/licenses/MIT
