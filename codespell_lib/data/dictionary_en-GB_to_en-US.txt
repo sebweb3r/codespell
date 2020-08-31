@@ -33,7 +33,6 @@ crystallisation->crystallization
 customised->customized
 customising->customizing
 daemonisation->daemonization
-daemonisation->demonization
 daemonise->daemonize
 daemonised->daemonized
 daemonises->daemonizes
