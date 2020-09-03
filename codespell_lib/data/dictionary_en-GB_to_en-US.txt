@@ -31,6 +31,7 @@ criticised->criticized
 criticises->criticizes
 crystallisation->crystallization
 customised->customized
+customiser->customizer
 customising->customizing
 daemonisation->daemonization
 daemonise->daemonize
@@ -43,6 +44,7 @@ devirtualise->devirtualize
 devirtualised->devirtualized
 dialogue->dialog
 digitise->digitize
+digitiser->digitizer
 digitising->digitizing
 emphasised->emphasized
 endeavour->endeavor
@@ -122,8 +124,11 @@ regularise->regularize
 regularised->regularized
 regulariser->regularizer
 regularises->regularizes
+reinitialisation->reinitialization
 reinitialise->reinitialize
 reinitialised->reinitialized
+reinitialises->reinitializes
+reinitialising->reinitializing
 reorganisation->reorganization
 reorganised->reorganized
 sanitise->sanitize
@@ -154,4 +159,6 @@ utilised->utilized
 virtualisation->virtualization
 virtualise->virtualize
 virtualised->virtualized
+virtualises->virtualizes
+virtualising->virtualizing
 visualisation->visualization
