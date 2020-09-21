@@ -109,6 +109,7 @@ paravirtualisation->paravirtualization
 paravirtualise->paravirtualize
 paravirtualised->paravirtualized
 plagiarise->plagiarize
+polariser->polarizer
 practise->practice
 prioritise->prioritize
 prioritising->prioritizing
