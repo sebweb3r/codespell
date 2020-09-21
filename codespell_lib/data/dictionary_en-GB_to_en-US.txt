@@ -9,7 +9,7 @@ analysing->analyzing
 artefact->artifact
 artefacts->artifacts
 authorisation->authorization
-authorise->authorize
+authoriser->authorizer
 behaviour->behavior
 behaviours->behaviors
 cancelled->canceled
