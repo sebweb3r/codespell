@@ -114,6 +114,7 @@ practise->practice
 prioritise->prioritize
 prioritising->prioritizing
 programme->program
+programmes->programs
 publicise->publicize
 realise->realize
 realised->realized
