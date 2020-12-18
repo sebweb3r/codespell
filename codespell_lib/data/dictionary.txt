@@ -2327,8 +2327,10 @@ arn't->aren't
 arne't->aren't
 arogant->arrogant
 arogent->arrogant
+arond->around
 aronud->around
 aroud->around
+arounde->around
 aroung->around
 arount->around
 arquitecture->architecture
@@ -24385,6 +24387,7 @@ roiginally->originally
 roiginals->originals
 roiginating->originating
 roigins->origins
+rond->round, fond,
 roomate->roommate
 ropeat->repeat
 rorated->rotated
@@ -24407,6 +24410,7 @@ rougly->roughly
 rouine->routine
 rouines->routines
 round-robbin->round-robin
+rounde->round, rounded,
 roundign->rounding
 roundtriped->roundtripped, round-tripped, round tripped,
 roundtriping->roundtripping, round-tripping, round tripping,
@@ -27130,6 +27134,7 @@ surrogage->surrogate
 surronded->surrounded
 surrouded->surrounded
 surrouding->surrounding
+surrounde->surround, surrounded,
 surrrounded->surrounded
 surrundering->surrendering
 survay->survey
