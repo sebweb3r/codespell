@@ -17154,6 +17154,7 @@ lpatform->platform
 lsat->last, slat, sat,
 lsit->list, slit, sit,
 lsits->lists, slits, sits,
+luckely->luckily
 lukid->lucid, Likud,
 luminose->luminous
 luminousity->luminosity
